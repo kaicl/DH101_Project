@@ -44,11 +44,11 @@
 <a href="https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6">https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6</a>
 </ol>
 
-<h2>Methods I am going to use for analize are:</h2>
+<h2>Methods I am going to use for analyze are:</h2>
 <ul>
-<li>Frequency analize</li>
+<li>Frequency Analyze</li>
 <li>Word Cloud</li>
-<li>Sentiment Analysis</li>
+<li>Sentiment Analyze</li>
 <li>Compare by POS</li>
 </ul>
 
