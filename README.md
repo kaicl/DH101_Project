@@ -44,7 +44,7 @@
 <a href="https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6">https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6</a>
 </ol>
 
-<h2>This project will present the analyze methods listed below for each Youthbe videos:</h2>
+<h2>This project presents the analyze methods listed below for each Youthbe videos:</h2>
 <ul>
 <li>Frequency Analyze</li>
 <li>Word Cloud</li>
