@@ -52,3 +52,12 @@
 <li>Compare by POS</li>
 </ul>
 
+<<<<<<< HEAD
+=======
+1) Individual Project: What Do Youtube Comments Tell Us?  
+
+3) header image
+
+4) 
+5) abstract of your project
+>>>>>>> aa1badf (add read me)
