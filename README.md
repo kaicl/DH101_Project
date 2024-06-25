@@ -1,5 +1,5 @@
 <span>DIGHUM 101</span>
-<span style="text-alian: right">Kai Chieh Liu - Summer 2024</span>
+<span style="text-align: right">Kai Chieh Liu - Summer 2024</span>
 
 <h1>Individual Project: What Do Youtube Comments Tell Us?</h1> 
 
