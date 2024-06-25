@@ -4,9 +4,11 @@
 
 <img width="593" alt="image" src="https://github.com/kaicl/DH101_Project/assets/32118768/62b0f59c-d34b-4bc4-adb2-33844f0c93d3">
 
+<h2>Background:</h2>
 <p>In an age where digital platforms play a huge role in our lives, every click, view, and comment potentially holds profound insights. Consumers rely heavily on online reviews when purchasing products. Platforms like YouTube serve not only as entertainment hubs but also as rich sources of consumer feedback and sentiment. It showcases consumers’s thoughts, opinions, and reactions in real time. From product reviews to personal expression, these comments can help companies discover underlying attitudes and perceptions of consumers towards a product.
-</br>
-In this project, I try to analyze the sentiment and tone of video transcripts and comments to reveal insights from the top five most viewed Youtube videos reviews on the newly released iPad pro with M4 chip.</p>
+</p>
+<h2>Objective</h2>
+<p>In this project, I try to analyze the sentiment and tone of video transcripts and comments to reveal insights from the top five most viewed Youtube videos reviews on the newly released iPad pro with M4 chip.</p>
 
 <h2>The videos I choosed to analize in the project are:</h2>
 <ol>
