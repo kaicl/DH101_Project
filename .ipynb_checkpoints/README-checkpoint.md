@@ -10,7 +10,7 @@
 <h2>Objective</h2>
 <p>In this project, I try to analyze the sentiment and tone of video transcripts and comments to reveal insights from the top five most viewed Youtube videos reviews on the newly released iPad pro with M4 chip.</p>
 
-<h2>The videos I choosed to analize in the project are:</h2>
+<h2>The videos I choosed to analyze in the project are:</h2>
 <ol>
     
 <li>M4 iPad Pro Impressions: Well This is Awkward</li>
@@ -44,11 +44,11 @@
 <a href="https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6">https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6</a>
 </ol>
 
-<h2>Methods I am going to use for analize are:</h2>
+<h2>This project will present the analyze methods listed below for each Youthbe videos:</h2>
 <ul>
-<li>Frequency analize</li>
+<li>Frequency Analyze</li>
 <li>Word Cloud</li>
-<li>Sentiment Analysis</li>
+<li>Sentiment Analyze</li>
 <li>Compare by POS</li>
 </ul>
 
