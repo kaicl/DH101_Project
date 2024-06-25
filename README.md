@@ -1,4 +1,4 @@
-# DIGHUM 101
+<span>DIGHUM 101</span>
 
 <h1>Individual Project: What Do Youtube Comments Tell Us?</h1> 
 
@@ -11,7 +11,6 @@ In this project, I try to analyze the sentiment and tone of video transcripts an
 <h2>The videos I choosed to analize in the project are:</h2>
 <ol>
     
-
 <li>M4 iPad Pro Impressions: Well This is Awkward</li>
 
 *Marques Brownlee*
@@ -42,3 +41,12 @@ In this project, I try to analyze the sentiment and tone of video transcripts an
 
 <a href="https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6">https://youtu.be/PHcDrXeyguM?si=XpGmRJOQY65hOFY6</a>
 </ol>
+
+<h2>Methods I am going to use for analize are:</h2>
+<ul>
+<li>Frequency analize</li>
+<li>Word Cloud</li>
+<li>Sentiment Analysis</li>
+<li>Compare by POS</li>
+</ul>
+
